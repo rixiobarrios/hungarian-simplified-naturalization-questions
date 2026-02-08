@@ -1,23 +1,22 @@
 Magyar - Angol fordítások
-1. oldal
-Miben segíthetek? — How can I help you?
-Fáradjon be! / Jöjjön be! — Please come in!
-Kérem foglaljon helyet! / Parancsoljon, üljön le! — Please take a seat!
-Mindjárt szólok a kolléganőmnek. — I'll let my colleague know in a moment.
-Egy pillanat. / Azonnal / máris. — One moment. / Immediately / right away.
-Izgul? / Ideges? — Are you nervous?
-Hogy utazott? — How was your trip?
-Mivel utazott? / Mivel érkezett? — How did you travel? / How did you arrive?
-Hogy hívják? — What is your name?
-Itt van az útlevele? / Elhozta az útlevelet? — Is your passport here? / Did you bring your passport?
-Kérem mutatkozzon be! / Meséljen magáról! — Please introduce yourself! / Tell me about yourself!
-2. oldal
-Melyik nyelviskolában tanult? — Which language school did you study at?
-Mióta tanul magyarul? / Milyen fokon beszél magyarul? — How long have you been learning Hungarian? / What is your level?
-Az édesanyját hogy hívják? / Az édesapját hogy hívják? — What is your mother's name? / What is your father's name?
-Hol született? — Where were you born?
-Mikor született? — When were you born?
-Házas? — Are you married?
+
+1. Miben segíthetek? — How can I help you?
+a. Fáradjon be! / Jöjjön be! — Please come in!
+b. Kérem foglaljon helyet! / Parancsoljon, üljön le! — Please take a seat!
+c. Mindjárt szólok a kolléganőmnek. — I'll let my colleague know in a moment.
+d. Egy pillanat. / Azonnal / máris. — One moment. / Immediately / right away.
+2. Izgul? / Ideges? — Are you nervous?
+3. Hogy utazott? — How was your trip?
+4. Mivel utazott? / Mivel érkezett? — How did you travel? / How did you arrive?
+5. Hogy hívják? — What is your name?
+6. Itt van az útlevele? / Elhozta az útlevelet? — Is your passport here? / Did you bring your passport?
+a. Kérem mutatkozzon be! / Meséljen magáról! — Please introduce yourself! / Tell me about yourself!
+7. Melyik nyelviskolában tanult? — Which language school did you study at?
+8. Mióta tanul magyarul? / Milyen fokon beszél magyarul? — How long have you been learning Hungarian? / What is your level?
+9. Az édesanyját hogy hívják? / Az édesapját hogy hívják? — What is your mother's name? / What is your father's name?
+10. Hol született? — Where were you born?
+11. Mikor született? — When were you born?
+12. Házas? — Are you married?
 magyar származású? — Are you of Hungarian descent?
 A nagymamája meddig élt Budapesten? — How long did your grandmother live in Budapest?
 Utána Libanonba költözött? — Did she move to Lebanon after that?

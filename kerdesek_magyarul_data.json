@@ -1,64 +1,64 @@
 [
   {
-    "question": "What was Tandem previous name?",
-    "incorrect": ["Tandem", "Burger Shack", "Extraordinary Humans"],
-    "correct": "Devmynd"
+    "question": "Miben segíthetek?",
+    "incorrect": ["Are you nervous?", "What is your name?", "When were you born?"],
+    "correct": "How can I help you?"
   },
   {
-    "question": "In Shakespeare's play Julius Caesar, Caesar's last words were...",
-    "incorrect": ["Iacta alea est!", "Vidi, vini, vici", "Aegri somnia vana"],
-    "correct": "Et tu, Brute?"
+    "question": "Izgul? / Ideges?",
+    "incorrect": ["How was your trip?", "Are you of Hungarian descent?", "Where were you born?"],
+    "correct": "Are you nervous?"
   },
   {
-    "question": "A group of tigers are referred to as:",
-    "incorrect": ["Chowder", "Pride", "Destruction"],
-    "correct": "Ambush"
+    "question": "Hogy utazott?",
+    "incorrect": ["Are you married?", "Where do you live now?", "Do you have a photo?"],
+    "correct": "How was your trip?"
   },
   {
-    "question": "What is the top speed an average cat can travel?",
-    "incorrect": ["42 mph", "13 mph", "9 mph"],
-    "correct": "31 mph"
+    "question": "Mivel utazott? / Mivel érkezett?",
+    "incorrect": ["Is your passport here? / Did you bring your passport?", "How long have you been learning Hungarian? / What is your level?", "Which of your ancestors was Hungarian? / Who was a Hungarian citizen?"],
+    "correct": "How did you travel? / How did you arrive?"
   },
   {
-    "question": "A cat can jump to _____ times its own height:",
-    "incorrect": ["3", "9", "7"],
-    "correct": "5"
+    "question": "Hogy hívják?",
+    "incorrect": ["Where were you born?", "What is your occupation?", "Have you been to Hungary?"],
+    "correct": "What is your name?"
   },
   {
-    "question": "What is the only letter that doesn't appear in a US state name?",
-    "incorrect": ["M", "Z", "X"],
-    "correct": "Q"
+    "question": "Itt van az útlevele? / Elhozta az útlevelet?",
+    "incorrect": ["How long have you been learning Hungarian? / What is your level?", "And what is their name? / And what was their name?", "Can I offer you a coffee? / A glass of water?"],
+    "correct": "Is your passport here? / Did you bring your passport?"
   },
   {
-    "question": "What is the name for a cow-bison hybrid?",
-    "incorrect": ["Cowson", "Bicow", "Mooson"],
-    "correct": "Beefalo"
+    "question": "Melyik nyelviskolában tanult?",
+    "incorrect": ["Do you have relatives in Hungary?", "Did you fill out the application?", "Why do you want to be a Hungarian citizen?"],
+    "correct": "Which language school did you study at?"
   },
   {
-    "question": "What is the largest freshwater lake in the world?",
-    "incorrect": ["Lake Baikal", "Lake Michigan", "Lake Victoria"],
-    "correct": "Lake Superior"
+    "question": "Mióta tanul magyarul? / Milyen fokon beszél magyarul?",
+    "incorrect": ["Where did you travel last summer? / Where did you vacation last summer?", "And what is their name? / And what was their name?", "How can we notify you? / What is your contact info?"],
+    "correct": "How long have you been learning Hungarian? / What is your level?"
   },
 
   {
-    "question": "In a website address bar, what does WWW stand for?",
-    "incorrect": ["Wild Wild West", "War World Web"],
-    "correct": "World Wide Web"
+    "question": "Az édesanyját hogy hívják? / Az édesapját hogy hívják?",
+    "incorrect": ["Can I offer you a coffee? / A glass of water?", "Is your passport here? / Did you bring your passport?"],
+    "correct": "What is your mother's name? / What is your father's name?"
   },
   {
-    "question": "In a game of bingo, what number is represented by the name two little ducks?",
-    "incorrect": ["20", "55", "77"],
-    "correct": "22"
+    "question": "Hol született?",
+    "incorrect": ["What is your occupation?", "Are you married?", "Are you nervous?"],
+    "correct": "Where were you born?"
   },
   {
-    "question": "According to Greek mythology, who was the first woman on Earth?",
-    "incorrect": ["Lilith", "Eve", "Hera"],
-    "correct": "Pandora"
+    "question": "Mikor született? ",
+    "incorrect": ["Where do you live now?", "Are you married?", "What is your name?"],
+    "correct": "When were you born?"
   },
   {
-    "question": "In which European city would you find Orly airport?",
-    "incorrect": ["London", "Belgium", "Munich"],
-    "correct": "Paris"
+    "question": "Házas?",
+    "incorrect": ["Where did you complete your studies?", "What is your occupation?", "Do you have siblings?"],
+    "correct": "Are you married?"
   },
   {
     "question": "Where would you find the Sea of Tranquility?",
