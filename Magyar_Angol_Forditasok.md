@@ -17,16 +17,15 @@ a. Kérem mutatkozzon be! / Meséljen magáról! — Please introduce yourself! 
 10. Hol született? — Where were you born?
 11. Mikor született? — When were you born?
 12. Házas? — Are you married?
-magyar származású? — Are you of Hungarian descent?
-A nagymamája meddig élt Budapesten? — How long did your grandmother live in Budapest?
-Utána Libanonba költözött? — Did she move to Lebanon after that?
-Az édesanyja hol született? — Where was your mother born?
-3. oldal
-Az édesanyja mikor született? — When was your mother born?
-Hol végezte tanulmányait? — Where did you complete your studies?
-Most hol él? / Jelenleg hol lakik? — Where do you live now?
-Mi a foglalkozása? — What is your occupation?
-Mi (volt) a szülei foglalkozása? — What is (was) your parents' occupation?
+13. magyar származású? — Are you of Hungarian descent?
+14. A nagymamája meddig élt Budapesten? — How long did your grandmother live in Budapest?
+15. Utána Libanonba költözött? — Did she move to Lebanon after that?
+16. Az édesanyja hol született? — Where was your mother born?
+17. Az édesanyja mikor született? — When was your mother born?
+18. Hol végezte tanulmányait? — Where did you complete your studies?
+19. Most hol él? / Jelenleg hol lakik? — Where do you live now?
+20. Mi a foglalkozása? — What is your occupation?
+21. Mi (volt) a szülei foglalkozása? — What is (was) your parents' occupation?
 Van testvére? — Do you have siblings?
 Mi a testvére foglalkozása? — What is your sibling's occupation?
 Le tudja vezetni magyar származását? — Can you trace your Hungarian ancestry?

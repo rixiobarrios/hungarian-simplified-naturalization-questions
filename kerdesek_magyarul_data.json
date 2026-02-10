@@ -61,52 +61,48 @@
     "correct": "Are you married?"
   },
   {
-    "question": "Where would you find the Sea of Tranquility?",
-    "incorrect": ["California", "Siberia", "China"],
-    "correct": "The Moon"
+    "question": "magyar származású?",
+    "incorrect": ["Where was your mother born?", "Do you have siblings?", "Do you have relatives in Hungary?"],
+    "correct": "Are you of Hungarian descent?"
   },
   {
-    "question": "Which artist painted 'Girl with a Pearl Earrin'?",
-    "incorrect": ["Van Gogh", "Picasso", "Da Vinci"],
-    "correct": "Vermeer"
+    "question": "A nagymamája meddig élt Budapesten?",
+    "incorrect": ["And have you been to Budapest?", "How do you like Budapest?", "Do you have siblings?"],
+    "correct": "How long did your grandmother live in Budapest?"
   },
   {
-    "question": "What is the official name for the 'hashtag' symbol?",
-    "incorrect": ["Number sign", "Hash Sign", "Pound"],
-    "correct": "Octothorpe"
+    "question": "Utána Libanonba költözött?",
+    "incorrect": ["Do you have relatives in Hungary?", "Did you fill out the application?", "Have you been to Hungary?"],
+    "correct": "Did she move to Lebanon after that?"
   },
   {
-    "question": "Not American at all, where is apple pie from?",
-    "incorrect": ["Japan", "Ethiopia", "Canada"],
-    "correct": "England"
+    "question": "Az édesanyja hol született?",
+    "incorrect": ["Where do you live now?", "Do you have siblings?", "Are you married?"],
+    "correct": "Where was your mother born?"
   },
   {
-    "question": "What is the national animal of Scotland?",
-    "incorrect": ["Bear", "Rabbit", "Seal"],
-    "correct": "Unicorn"
+    "question": "Az édesanyja mikor született?",
+    "incorrect": ["What is your sibling's occupation?", "Where did you complete your studies?", "Do you have relatives in Hungary?"],
+    "correct": "When was your mother born?"
   },
   {
-    "question": "Where in the world is the only place where Canada is *due south*",
-    "incorrect": ["Alaska", "Russia", "Washington"],
-    "correct": "Detroit"
+    "question": "Hol végezte tanulmányait?",
+    "incorrect": ["What is your name?", "Are you nervous?", "How can I help you?"],
+    "correct": "Where did you complete your studies?"
   },
   {
-    "question": "Approximately how many grapes go into a bottle of wine?",
-    "incorrect": ["500", "200", "1000"],
-    "correct": "700"
+    "question": "Most hol él? / Jelenleg hol lakik?",
+    "incorrect": ["Do you have siblings?", "Where was your mother born?", "What is your occupation?"],
+    "correct": "Where do you live now?"
   },
   {
-    "question": "How much does a US One Dollar Bill cost to make?",
-    "incorrect": ["$0.25", "$1", "$5"],
-    "correct": "$0.05"
+    "question": "Mi a foglalkozása?",
+    "incorrect": ["Did you fill out the application?", "How was your trip?", "Are you married?"],
+    "correct": "What is your occupation?"
   },
   {
-    "question": "The Vatican bank has the only ATM in the world that allows users to do what?",
-    "incorrect": [
-      "Receive withdrawls in rosary beads",
-      "Vote for the Pope",
-      "Purchase indulgences"
-    ],
-    "correct": "Perform transactions in Latin"
+    "question": "Mi (volt) a szülei foglalkozása?",
+    "incorrect": ["Where do your parents live?", "What documents did you bring with you?", "Do you have a photo?"],
+    "correct": "What is (was) your parents' occupation?"
   }
 ]
