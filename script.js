@@ -35,7 +35,7 @@ nextButton.addEventListener('click', nextQuestion);
 let playerScore = 0;
 
 // number of questions per trivia
-const numberOfQuestions = 10;
+const numberOfQuestions = 20;
 
 //create an empty array for loadedQuestions copy
 let questions = [];
