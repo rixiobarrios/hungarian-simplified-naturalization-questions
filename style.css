@@ -1,4 +1,4 @@
-*,
+/* *,
 *::before,
 *::after {
   box-sizing: border-box;
@@ -89,4 +89,170 @@ h1,
 
 a {
   color: black;
+} */
+
+/* Global reset & typography */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  font-family: 'Montserrat', system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+}
+
+html, body {
+  padding: 0;
+  margin: 0;
+}
+
+/* Use a column flow; avoid 100vw (can cause horizontal scroll on mobile due to scrollbars) */
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  justify-content: flex-start;
+  align-items: center;
+  background: #f7f7f7; /* subtle background for contrast */
+}
+
+/* Responsive container */
+.container {
+  width: 100%;
+  max-width: 800px;
+  /* On very small screens limit side padding to prevent cramped layout */
+  padding: clamp(16px, 4vw, 24px);
+  margin: 16px auto;
+  background-color: #fff;
+  border: 2px solid #000;
+  box-shadow: 5px 5px 0 #000;
+  border-radius: 8px;
+  /* Ensure content never hides behind fixed footer */
+  /* 90px footer height + safe area inset for iOS */
+  padding-bottom: clamp(16px, 4vw, 24px);
+}
+
+/* Typography scaling */
+h1,
+.controls,
+.score-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* Fluid size: min 18px, prefers 20-22px on larger screens */
+  font-size: clamp(18px, 2.5vw, 22px);
+  text-align: center;
+  margin: 8px 0;
+}
+
+/* Button grid: 2 columns on larger screens, single column on mobile */
+.btn-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: clamp(12px, 3vw, 20px);
+  margin: clamp(16px, 4vw, 24px) 0;
+}
+
+.btn {
+  background-color: #fff;
+  border: 2px solid #000;
+  padding: clamp(12px, 3.5vw, 16px);
+  font-size: clamp(16px, 2.8vw, 20px);
+  color: #000;
+  box-shadow: 5px 5px 0 #000;
+  border-radius: 8px;
+  line-height: 1.2;
+  /* Larger tap target for mobile (min height ~44px) */
+  min-height: 44px;
+  /* Prevent long labels from overflowing */
+  word-wrap: break-word;
+  white-space: normal;
+}
+
+.btn:hover {
+  box-shadow: 2px 2px 0 #000;
+}
+
+/* Touch-friendly active state */
+.btn:active {
+  transform: translate(1px, 1px);
+  box-shadow: 2px 2px 0 #000;
+}
+
+/* Accessible focus state */
+.btn:focus-visible {
+  outline: 3px solid #4c9ffe;
+  outline-offset: 3px;
+}
+
+/* Disabled button colors */
+.answer-btn:disabled { background-color: #d3d3d3; }
+.selected-btn:disabled { background-color: #ffccdc; }
+.correct-btn:disabled  { background-color: #b9f2b9; }
+
+/* Start/Next buttons: keep larger size but responsive */
+.start-btn,
+.next-btn {
+  font-size: clamp(20px, 4vw, 32px);
+  font-weight: bold;
+  padding: clamp(10px, 3.5vw, 16px) clamp(16px, 5vw, 24px);
+  min-height: 48px;
+}
+
+/* Utility: hide */
+.hide { display: none !important; }
+
+/* Links */
+a { color: #000; }
+
+/* Fixed footer: mobile-safe with safe-area and avoiding overlap */
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  /* Height includes safe area to avoid iOS home indicator overlap */
+  min-height: 90px;
+  padding-bottom: env(safe-area-inset-bottom, 0);
+  background-color: #d3d3d3;
+  text-decoration: none;
+  z-index: 999;
+  border-top: 1px solid #bbb;
+}
+
+/* Make sure page content never hides behind the footer */
+body {
+  /* add bottom padding roughly equal to footer height */
+  padding-bottom: calc(90px + env(safe-area-inset-bottom, 0px));
+}
+
+/* Responsive adjustments: single column grid on narrow viewports */
+@media (max-width: 640px) {
+  .btn-grid {
+    grid-template-columns: 1fr;
+  }
+  .container {
+    margin: 12px;
+    box-shadow: 3px 3px 0 #000;
+  }
+}
+
+/* Larger screens: keep two columns and comfortable spacing */
+@media (min-width: 1024px) {
+  .btn-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 20px;
+  }
+}
+
+/* Reduce motion for accessibility */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    transition: none !important;
+    animation: none !important;
+  }
+  .btn:active {
+    transform: none;
+  }
 }
