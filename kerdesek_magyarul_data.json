@@ -116,24 +116,6 @@
     "correct": "Are you of Hungarian descent?"
   },
   {
-    "question": "A nagymamája meddig élt Budapesten?",
-    "incorrect": [
-      "And have you been to Budapest?",
-      "How do you like Budapest?",
-      "Do you have siblings?"
-    ],
-    "correct": "How long did your grandmother live in Budapest?"
-  },
-  {
-    "question": "Utána Libanonba költözött?",
-    "incorrect": [
-      "Do you have relatives in Hungary?",
-      "Did you fill out the application?",
-      "Have you been to Hungary?"
-    ],
-    "correct": "Did she move to Lebanon after that?"
-  },
-  {
     "question": "Az édesanyja hol született?",
     "incorrect": [
       "Where do you live now?",
