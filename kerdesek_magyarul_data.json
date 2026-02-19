@@ -1,108 +1,262 @@
 [
   {
     "question": "Miben segíthetek?",
-    "incorrect": ["Are you nervous?", "What is your name?", "When were you born?"],
+    "incorrect": [
+      "Are you nervous?",
+      "What is your name?",
+      "When were you born?"
+    ],
     "correct": "How can I help you?"
   },
   {
     "question": "Izgul? / Ideges?",
-    "incorrect": ["How was your trip?", "Are you of Hungarian descent?", "Where were you born?"],
+    "incorrect": [
+      "How was your trip?",
+      "Are you of Hungarian descent?",
+      "Where were you born?"
+    ],
     "correct": "Are you nervous?"
   },
   {
     "question": "Hogy utazott?",
-    "incorrect": ["Are you married?", "Where do you live now?", "Do you have a photo?"],
+    "incorrect": [
+      "Are you married?",
+      "Where do you live now?",
+      "Do you have a photo?"
+    ],
     "correct": "How was your trip?"
   },
   {
     "question": "Mivel utazott? / Mivel érkezett?",
-    "incorrect": ["Is your passport here? / Did you bring your passport?", "How long have you been learning Hungarian? / What is your level?", "Which of your ancestors was Hungarian? / Who was a Hungarian citizen?"],
+    "incorrect": [
+      "Is your passport here? / Did you bring your passport?",
+      "How long have you been learning Hungarian? / What is your level?",
+      "Which of your ancestors was Hungarian? / Who was a Hungarian citizen?"
+    ],
     "correct": "How did you travel? / How did you arrive?"
   },
   {
     "question": "Hogy hívják?",
-    "incorrect": ["Where were you born?", "What is your occupation?", "Have you been to Hungary?"],
+    "incorrect": [
+      "Where were you born?",
+      "What is your occupation?",
+      "Have you been to Hungary?"
+    ],
     "correct": "What is your name?"
   },
   {
     "question": "Itt van az útlevele? / Elhozta az útlevelet?",
-    "incorrect": ["How long have you been learning Hungarian? / What is your level?", "And what is their name? / And what was their name?", "Can I offer you a coffee? / A glass of water?"],
+    "incorrect": [
+      "How long have you been learning Hungarian? / What is your level?",
+      "And what is their name? / And what was their name?",
+      "Can I offer you a coffee? / A glass of water?"
+    ],
     "correct": "Is your passport here? / Did you bring your passport?"
   },
   {
     "question": "Melyik nyelviskolában tanult?",
-    "incorrect": ["Do you have relatives in Hungary?", "Did you fill out the application?", "Why do you want to be a Hungarian citizen?"],
+    "incorrect": [
+      "Do you have relatives in Hungary?",
+      "Did you fill out the application?",
+      "Why do you want to be a Hungarian citizen?"
+    ],
     "correct": "Which language school did you study at?"
   },
   {
     "question": "Mióta tanul magyarul? / Milyen fokon beszél magyarul?",
-    "incorrect": ["Where did you travel last summer? / Where did you vacation last summer?", "And what is their name? / And what was their name?", "How can we notify you? / What is your contact info?"],
+    "incorrect": [
+      "Where did you travel last summer? / Where did you vacation last summer?",
+      "And what is their name? / And what was their name?",
+      "How can we notify you? / What is your contact info?"
+    ],
     "correct": "How long have you been learning Hungarian? / What is your level?"
   },
-
   {
     "question": "Az édesanyját hogy hívják? / Az édesapját hogy hívják?",
-    "incorrect": ["Can I offer you a coffee? / A glass of water?", "Is your passport here? / Did you bring your passport?"],
+    "incorrect": [
+      "Can I offer you a coffee? / A glass of water?",
+      "Is your passport here? / Did you bring your passport?"
+    ],
     "correct": "What is your mother's name? / What is your father's name?"
   },
   {
     "question": "Hol született?",
-    "incorrect": ["What is your occupation?", "Are you married?", "Are you nervous?"],
+    "incorrect": [
+      "What is your occupation?",
+      "Are you married?",
+      "Are you nervous?"
+    ],
     "correct": "Where were you born?"
   },
   {
     "question": "Mikor született? ",
-    "incorrect": ["Where do you live now?", "Are you married?", "What is your name?"],
+    "incorrect": [
+      "Where do you live now?",
+      "Are you married?",
+      "What is your name?"
+    ],
     "correct": "When were you born?"
   },
   {
     "question": "Házas?",
-    "incorrect": ["Where did you complete your studies?", "What is your occupation?", "Do you have siblings?"],
+    "incorrect": [
+      "Where did you complete your studies?",
+      "What is your occupation?",
+      "Do you have siblings?"
+    ],
     "correct": "Are you married?"
   },
   {
     "question": "magyar származású?",
-    "incorrect": ["Where was your mother born?", "Do you have siblings?", "Do you have relatives in Hungary?"],
+    "incorrect": [
+      "Where was your mother born?",
+      "Do you have siblings?",
+      "Do you have relatives in Hungary?"
+    ],
     "correct": "Are you of Hungarian descent?"
   },
   {
     "question": "A nagymamája meddig élt Budapesten?",
-    "incorrect": ["And have you been to Budapest?", "How do you like Budapest?", "Do you have siblings?"],
+    "incorrect": [
+      "And have you been to Budapest?",
+      "How do you like Budapest?",
+      "Do you have siblings?"
+    ],
     "correct": "How long did your grandmother live in Budapest?"
   },
   {
     "question": "Utána Libanonba költözött?",
-    "incorrect": ["Do you have relatives in Hungary?", "Did you fill out the application?", "Have you been to Hungary?"],
+    "incorrect": [
+      "Do you have relatives in Hungary?",
+      "Did you fill out the application?",
+      "Have you been to Hungary?"
+    ],
     "correct": "Did she move to Lebanon after that?"
   },
   {
     "question": "Az édesanyja hol született?",
-    "incorrect": ["Where do you live now?", "Do you have siblings?", "Are you married?"],
+    "incorrect": [
+      "Where do you live now?",
+      "Do you have siblings?",
+      "Are you married?"
+    ],
     "correct": "Where was your mother born?"
   },
   {
     "question": "Az édesanyja mikor született?",
-    "incorrect": ["What is your sibling's occupation?", "Where did you complete your studies?", "Do you have relatives in Hungary?"],
+    "incorrect": [
+      "What is your sibling's occupation?",
+      "Where did you complete your studies?",
+      "Do you have relatives in Hungary?"
+    ],
     "correct": "When was your mother born?"
   },
   {
     "question": "Hol végezte tanulmányait?",
-    "incorrect": ["What is your name?", "Are you nervous?", "How can I help you?"],
+    "incorrect": [
+      "What is your name?",
+      "Are you nervous?",
+      "How can I help you?"
+    ],
     "correct": "Where did you complete your studies?"
   },
   {
     "question": "Most hol él? / Jelenleg hol lakik?",
-    "incorrect": ["Do you have siblings?", "Where was your mother born?", "What is your occupation?"],
+    "incorrect": [
+      "Do you have siblings?",
+      "Where was your mother born?",
+      "What is your occupation?"
+    ],
     "correct": "Where do you live now?"
   },
   {
     "question": "Mi a foglalkozása?",
-    "incorrect": ["Did you fill out the application?", "How was your trip?", "Are you married?"],
+    "incorrect": [
+      "Did you fill out the application?",
+      "How was your trip?",
+      "Are you married?"
+    ],
     "correct": "What is your occupation?"
   },
   {
     "question": "Mi (volt) a szülei foglalkozása?",
-    "incorrect": ["Where do your parents live?", "What documents did you bring with you?", "Do you have a photo?"],
+    "incorrect": [
+      "Where do your parents live?",
+      "What documents did you bring with you?",
+      "Do you have a photo?"
+    ],
     "correct": "What is (was) your parents' occupation?"
+  },
+  {
+    "question": "Mikor és hol házasodtak össze?",
+    "incorrect": [
+      "Where do you work?",
+      "Do you have siblings?",
+      "What is your favorite food?"
+    ],
+    "correct": "When and where did you get married?"
+  },
+  {
+    "question": "Van közös bankszámlájuk?",
+    "incorrect": [
+      "Do you have Hungarian ancestry?",
+      "Where did you study?",
+      "Do you like to travel?"
+    ],
+    "correct": "Do you have a joint bank account?"
+  },
+  {
+    "question": "Hogyan osztják meg a háztartási feladatokat?",
+    "incorrect": [
+      "What is your mother's name?",
+      "Do you have a Hungarian passport?",
+      "Where were you born?"
+    ],
+    "correct": "How do you share household tasks?"
+  },
+  {
+    "question": "Van gyerekük?",
+    "incorrect": [
+      "Do you have a car?",
+      "Do you have siblings?",
+      "What is your occupation?"
+    ],
+    "correct": "Do you have children?"
+  },
+  {
+    "question": "Milyen nyelven beszélnek otthon?",
+    "incorrect": [
+      "Do you like Hungarian food?",
+      "Where do you live now?",
+      "Do you have a photo?"
+    ],
+    "correct": "What language do you speak at home?"
+  },
+  {
+    "question": "Miért szeretne magyar állampolgár lenni?",
+    "incorrect": [
+      "What is your name?",
+      "Do you have siblings?",
+      "Where did you travel last summer?"
+    ],
+    "correct": "Why do you want Hungarian citizenship?"
+  },
+  {
+    "question": "Járt már Magyarországon?",
+    "incorrect": [
+      "Do you have a Hungarian tax ID?",
+      "What is your occupation?",
+      "Do you have siblings?"
+    ],
+    "correct": "Have you been to Hungary?"
+  },
+  {
+    "question": "Mi a kedvenc magyar étele?",
+    "incorrect": [
+      "Do you have a Hungarian passport?",
+      "Where do you live now?",
+      "What is your mother's name?"
+    ],
+    "correct": "What is your favorite Hungarian dish?"
   }
 ]
